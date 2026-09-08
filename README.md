@@ -3,7 +3,7 @@ I'm currently studying.<br>
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-www.sametanaz.space-0A0A0A?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.sametanaz.space)
+[![Website](https://img.shields.io/badge/Website-www.sametanaz.com-0A0A0A?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.sametanaz.space)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/forgedforg) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samet-anaz-995349291) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30356320) 
